@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "About"
-description: "Why use Project Pages?"
+description: "SUST CSE 13"
 header-img: "img/home-bg.jpg"
 ---
 
-Project Pages is a research blog tool that allows you to quickly show your latest results to an advisor, collaborators or your mom.
+We are the 22nd batch of Dept. of Computer Science & Engineering of Shahjalal University of Science & Technology.
 	
