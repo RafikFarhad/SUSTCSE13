@@ -67,6 +67,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 4429,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -120,10 +129,19 @@
 	},
 	"expanded_folders":
 	[
-		"/home/looser/SUSTCSE13"
+		"/home/looser/SUSTCSE13",
+		"/home/looser/SUSTCSE13/_site/about"
 	],
 	"file_history":
 	[
+		"/home/looser/SUSTCSE13/_site/about/index.html",
+		"/home/looser/SUSTCSE13/about.md",
+		"/home/looser/SUSTCSE13/_includes/footer.html",
+		"/home/looser/SUSTCSE13/_includes/nav.html",
+		"/home/looser/SUSTCSE13/_data/members.yml",
+		"/home/looser/SUSTCSE13/_layouts/project.html",
+		"/home/looser/SUSTCSE13/css/bootstrap.css",
+		"/home/looser/SUSTCSE13/index.html",
 		"/home/looser/Desktop/public_html/app/config/customConfig.php",
 		"/home/looser/Desktop/public_html/app/controllers/EventController.php",
 		"/home/looser/Desktop/public_html/app/controllers/GalleryController.php",
@@ -243,25 +261,20 @@
 		"/home/looser/Desktop/Pustok/public/000.txt",
 		"/home/looser/Desktop/Pustok/app/Http/Controllers/recievebookcontroller.php",
 		"/home/looser/Desktop/Pustok/resources/views/AddBook/addbook.blade.php",
-		"/home/looser/Desktop/test/kop.php",
-		"/home/looser/Desktop/test/kop.html",
-		"/home/looser/Desktop/Pustok/app/Http/Controllers/lendbookcontroller.php",
-		"/home/looser/Desktop/Pustok/resources/views/layouts/book_details.blade.php",
-		"/home/looser/Dropbox/Gronthagar stored/app/Http/Controllers/all_book_controller.php",
-		"/home/looser/Dropbox/Gronthagar stored/app/Http/Controllers/add_book_controller.php",
-		"/home/looser/Dropbox/Gronthagar stored/resources/views/all_book/add_book.blade.php",
-		"/home/looser/Dropbox/Gronthagar stored/resources/views/all_book/book_view.blade.php",
-		"/home/looser/Dropbox/Gronthagar stored/routes/web.php"
+		"/home/looser/Desktop/test/kop.php"
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
 		"height": 90.0,
 		"where_history":
 		[
+			"/home/looser/SUSTCSE13",
+			"/home/looser/SUSTCSE13/css",
+			"/home/looser/SUSTCSE13",
 			"/home/looser/Desktop/public_html/app",
 			"/home/looser/Desktop/Pustok/resources",
 			"/home/looser/Desktop/Pustok",
@@ -273,6 +286,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Ahmet Cecen",
+			"navbar-right",
+			"nav navbar-nav navbar-right",
+			"home-bg",
+			"Project-Pages-New-Logo-Inverted.png",
+			"proje",
+			" img",
 			"result.pc",
 			"team",
 			"/events",
@@ -330,6 +350,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"/img",
 			"roboticscompetition",
 			"6th CSE Carnival 2017",
 			"IPvision SUST 6th CSE Carnival 2017",
@@ -349,8 +370,39 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4429,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								90,
+								90
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -397,7 +449,7 @@
 	"project": "untitled.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 62.0
 	},
 	"save_all_on_build": true,
 	"select_file":
